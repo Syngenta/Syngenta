@@ -1,5 +1,5 @@
 ## Welcome to Syngenta Open-Source!
-![sytdig_antecipacao_comunicacao_rtv_whatsapppriority@3x](https://user-images.githubusercontent.com/118008597/201669632-3029589c-603e-4a0c-8c20-30aecc7184a8.png)
+
 At [Syngenta](https://www.syngenta.com/en/company/our-purpose-and-contribution), our ambition is to bring plant potential to life. We believe in the power of collaboration to help farmers sustainably feed the world. 
 Our Open Source Program wants to support and be part of the community by creating a dialogue through our projects to build better solutions together.  
 
