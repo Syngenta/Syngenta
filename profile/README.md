@@ -4,6 +4,7 @@ At [Syngenta](https://www.syngenta.com/en/company/our-purpose-and-contribution),
 Our Open Source Program wants to support and be part of the community by creating a dialogue through our projects to build better solutions together.  
 
 You can get in touch with us here: ospo@syngenta.com
+
 We also invite you to look at our collaboration platform, [Shoots by Syngenta™](https://shootsbysyngenta.com/innovation), where we're bringing together individuals and organizations to tackle some of the world’s most complex agricultural challenges: for nature, farmers and food security.
 
 
